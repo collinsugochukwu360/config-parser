@@ -1,0 +1,6 @@
+dbname=staging_db
+host=127.0.0.1
+port=8080
+
+[application]
+name=staging-app

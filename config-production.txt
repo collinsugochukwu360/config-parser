@@ -1,0 +1,6 @@
+dbname=production_db
+host=127.0.0.1
+port=8080
+
+[application]
+name=production-app
